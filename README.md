@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isura Dilshan.</h1>
 <h3 align="center">Life would be so much easier if we only had the source code.</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuradilshan&show_icons=true&locale=en&layout=compact" alt="isuradilshan" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuradilshan&show_icons=true&locale=en" alt="isuradilshan" />
+![SrilalS](https://github-readme-stats.vercel.app/api?username=IsuraDilshan&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
+![SrilalS](https://github-readme-stats.vercel.app/api/top-langs/?username=IsuraDilshan&layout=compact&langs_count=6&theme=algolia)
+
 
 <img align="left" alt="GIF" width="250px" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif"/>
 
