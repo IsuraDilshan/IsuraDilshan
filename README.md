@@ -15,9 +15,4 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuradilshan&" alt="isuradilshan"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuradilshan&label=Profile%20views&color=0e75b6&style=flat" alt="isuradilshan" /> </p>
-<p align="left">
-<a href="https://dev.to/isuradilshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="isuradilshan" height="30" width="40" /></a>
-<a href="https://twitter.com/dilshanisura" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dilshanisura" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isura dilshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isura dilshan" height="30" width="40" /></a>
-<a href="https://fb.com/isura dilshan wimalarathna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="isura dilshan wimalarathna" height="30" width="40" /></a>
-</p>
+
