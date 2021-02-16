@@ -10,6 +10,5 @@
 
 <br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuradilshan&" alt="isuradilshan"/></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuradilshan&label=Profile%20views&color=0e75b6&style=flat" alt="isuradilshan" /> </p>
 
